@@ -5,7 +5,8 @@
     "te.json",
     "ARU_full.json",
     "JamChaSin.json",
-    "custom.json"
+    "custom.json",
+    "New-Adventures.json"
   ],
   "homeserver_url": "https://pullopen.xyz"
 }
