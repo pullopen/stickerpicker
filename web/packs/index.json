@@ -1,7 +1,8 @@
 {
   "packs": [
     "PenguinAndCatDaysMove.json",
-    "LINE_Mochi_Mochi_Peach_Cat.json"
+    "LINE_Mochi_Mochi_Peach_Cat.json",
+    "te.json"
   ],
   "homeserver_url": "https://pullopen.xyz"
 }
