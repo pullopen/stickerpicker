@@ -1,11 +1,11 @@
 {
   "packs": [
-    "PenguinAndCatDaysMove.json",
-    "LINE_Mochi_Mochi_Peach_Cat.json",
+    "custom.json",
     "te.json",
+    "penchan.json",
+    "LINE_Mochi_Mochi_Peach_Cat.json",
     "ARU_full.json",
     "JamChaSin.json",
-    "custom.json",
     "New-Adventures.json",
     "CCatsbyh.json",
     "CatPusheen.json"
